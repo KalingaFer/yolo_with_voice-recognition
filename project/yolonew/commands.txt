@@ -1,0 +1,2 @@
+# testing command
+python train.py --data data\sound.yaml --cfg models\yolov5s.yaml --epochs 100 --weights ''  --name test --batch-size 50 --exist-ok
